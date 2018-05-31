@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Efficiently_Sampling_The_Parameter_space_v2.aux
+The style file: mnras.bst
+Database file #1: my_bib.bib
+You're missing a field name---line 147 of file my_bib.bib
+ : 
+ : %      author         = "Kruckow, Matthias U. and Tauris, Thomas M. and Langer,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+`author' is a missing field, not a string, for entry Kruckow:2018slo
+while executing---line 1706 of file mnras.bst
+`author' is a missing field, not a string, for entry Kruckow:2018slo
+while executing---line 1706 of file mnras.bst
+Warning--empty author in Kruckow:2018slo
+Warning--empty year in Kruckow:2018slo
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Kruckow:2018slo
+while executing---line 1822 of file mnras.bst
+Warning--empty journal in Kruckow:2018slo
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Kruckow:2018slo
+while executing---line 1822 of file mnras.bst
+(There were 5 error messages)

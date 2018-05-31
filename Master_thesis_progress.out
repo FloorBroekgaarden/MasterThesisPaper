@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Binary population synthesis}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Physics in COMPAS}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Initial parameter priors}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Sampling methods}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Adaptive importance sampling}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Application I}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{More BBHs in simulation}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Rate estimator}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Chirp mass distribution}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Application II}{}% 11
+\BOOKMARK [1][-]{section.6}{\(...\)}{}% 12
+\BOOKMARK [1][-]{section.7}{Discussion}{}% 13
+\BOOKMARK [1][-]{section.8}{Summary }{}% 14
