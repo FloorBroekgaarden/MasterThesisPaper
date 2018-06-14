@@ -17,12 +17,57 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
+\bibitem[\protect\citeauthoryear{Abbott et~al.,}{Abbott
+  et~al.}{2016a}]{abbott2016observation}
+Abbott B.~P.,  et~al., 2016a, Physical review letters, 116, 061102
+
+\bibitem[\protect\citeauthoryear{Abbott et~al.,}{Abbott
+  et~al.}{2016b}]{abbott2016astrophysical}
+Abbott B.,  et~al., 2016b, The Astrophysical Journal Letters, 818, L22
+
+\bibitem[\protect\citeauthoryear{Abbott et~al.,}{Abbott
+  et~al.}{2017}]{abbott2017gw170817}
+Abbott B.~P.,  et~al., 2017, Physical Review Letters, 119, 161101
+
+\bibitem[\protect\citeauthoryear{Abbott et~al.,}{Abbott
+  et~al.}{2018}]{abbott2018prospects}
+Abbott B.~P.,  et~al., 2018, Living Reviews in Relativity, 21, 3
+
+\bibitem[\protect\citeauthoryear{Almeida et~al.,}{Almeida
+  et~al.}{2017}]{almeida2017tarantula}
+Almeida L.,  et~al., 2017, Astronomy \& Astrophysics, 598, A84
+
+\bibitem[\protect\citeauthoryear{Andrews, Zezas  \& Fragos}{Andrews
+  et~al.}{2017}]{andrews2017dart_board}
+Andrews J.~J.,  Zezas A.,   Fragos T.,  2017, arXiv preprint arXiv:1710.11030
+
+\bibitem[\protect\citeauthoryear{Arzoumanian, Chernoff  \& Cordes}{Arzoumanian
+  et~al.}{2002}]{arzoumanian2002velocity}
+Arzoumanian Z.,  Chernoff D.,   Cordes J.,  2002, The Astrophysical Journal,
+  568, 289
+
+\bibitem[\protect\citeauthoryear{Barkat, Rakavy  \& Sack}{Barkat
+  et~al.}{1967}]{barkat1967dynamics}
+Barkat Z.,  Rakavy G.,   Sack N.,  1967, Physical Review Letters, 18, 379
+
 \bibitem[\protect\citeauthoryear{Barrett, Gaebel, Neijssel, Vigna-G{\'o}mez,
   Stevenson, Berry, Farr  \& Mandel}{Barrett
   et~al.}{2017}]{barrett2017accuracy}
 Barrett J.~W.,  Gaebel S.~M.,  Neijssel C.~J.,  Vigna-G{\'o}mez A.,  Stevenson
   S.,  Berry C.~P.,  Farr W.~M.,   Mandel I.,  2017, arXiv preprint
   arXiv:1711.06287
+
+\bibitem[\protect\citeauthoryear{Barrett, Gaebel, Neijssel, Vigna-G{\'o}mez,
+  Stevenson, Berry, Farr  \& Mandel}{Barrett
+  et~al.}{2018}]{barrett2018accuracy}
+Barrett J.~W.,  Gaebel S.~M.,  Neijssel C.~J.,  Vigna-G{\'o}mez A.,  Stevenson
+  S.,  Berry C.~P.,  Farr W.~M.,   Mandel I.,  2018, Monthly Notices of the
+  Royal Astronomical Society, 477, 4685
+
+\bibitem[\protect\citeauthoryear{Belczynski, Kalogera  \& Bulik}{Belczynski
+  et~al.}{2002}]{belczynski2002comprehensive}
+Belczynski K.,  Kalogera V.,   Bulik T.,  2002, The Astrophysical Journal, 572,
+  407
 
 \bibitem[\protect\citeauthoryear{Belczynski, Kalogera, Rasio, Taam, Zezas,
   Bulik, Maccarone  \& Ivanova}{Belczynski
@@ -31,19 +76,114 @@ Belczynski K.,  Kalogera V.,  Rasio F.~A.,  Taam R.~E.,  Zezas A.,  Bulik T.,
   Maccarone T.~J.,   Ivanova N.,  2008, The Astrophysical Journal Supplement
   Series, 174, 223
 
+\bibitem[\protect\citeauthoryear{Belczynski, Dominik, Bulik, O`Shaughnessy,
+  Fryer  \& Holz}{Belczynski et~al.}{2010}]{belczynski2010effect}
+Belczynski K.,  Dominik M.,  Bulik T.,  O`Shaughnessy R.,  Fryer C.,   Holz
+  D.~E.,  2010, The Astrophysical Journal Letters, 715, L138
+
 \bibitem[\protect\citeauthoryear{Belczynski, Holz, Bulik  \&
-  O`Shaughnessy}{Belczynski et~al.}{2016}]{belczynski2016first}
-Belczynski K.,  Holz D.~E.,  Bulik T.,   O`Shaughnessy R.,  2016, Nature, 534,
+  O`Shaughnessy}{Belczynski et~al.}{2016a}]{belczynski2016first}
+Belczynski K.,  Holz D.~E.,  Bulik T.,   O`Shaughnessy R.,  2016a, Nature, 534,
   512
+
+\bibitem[\protect\citeauthoryear{Belczynski et~al.,}{Belczynski
+  et~al.}{2016b}]{belczynski2016effect}
+Belczynski K.,  et~al., 2016b, Astronomy \& Astrophysics, 594, A97
 
 \bibitem[\protect\citeauthoryear{Belczynski et~al.,}{Belczynski
   et~al.}{2017}]{belczynski2017gw170104}
 Belczynski K.,  et~al., 2017, arXiv preprint arXiv:1706.07053
 
+\bibitem[\protect\citeauthoryear{Beniamini \& Piran}{Beniamini \&
+  Piran}{2016}]{beniamini2016formation}
+Beniamini P.,  Piran T.,  2016, Monthly Notices of the Royal Astronomical
+  Society, 456, 4089
+
+\bibitem[\protect\citeauthoryear{Bisnovatyi-Kogan}{Bisnovatyi-Kogan}{1993}]{bisnovatyi1993asymmetric}
+Bisnovatyi-Kogan G.,  1993, Astronomical and Astrophysical Transactions, 3, 287
+
+\bibitem[\protect\citeauthoryear{Bromm \& Yoshida}{Bromm \&
+  Yoshida}{2011}]{bromm2011first}
+Bromm V.,  Yoshida N.,  2011, Annual Review of Astronomy and Astrophysics, 49,
+  373
+
+\bibitem[\protect\citeauthoryear{Burrows \& Hayes}{Burrows \&
+  Hayes}{1996}]{burrows1996pulsar}
+Burrows A.,  Hayes J.,  1996, Physical Review Letters, 76, 352
+
+\bibitem[\protect\citeauthoryear{Chini, Hoffmeister, Nasseri, Stahl  \&
+  Zinnecker}{Chini et~al.}{2012}]{chini2012spectroscopic}
+Chini R.,  Hoffmeister V.,  Nasseri A.,  Stahl O.,   Zinnecker H.,  2012,
+  Monthly Notices of the Royal Astronomical Society, 424, 1925
+
+\bibitem[\protect\citeauthoryear{Claeys, Pols, Izzard, Vink  \& Verbunt}{Claeys
+  et~al.}{2014}]{claeys2014theoretical}
+Claeys J.,  Pols O.,  Izzard R.,  Vink J.,   Verbunt F.,  2014, Astronomy \&
+  Astrophysics, 563, A83
+
+\bibitem[\protect\citeauthoryear{De~Kool}{De~Kool}{1990}]{de1990common}
+De~Kool M.,  1990, The Astrophysical Journal, 358, 189
+
+\bibitem[\protect\citeauthoryear{De~Marco \& Izzard}{De~Marco \&
+  Izzard}{2017}]{de2017dawes}
+De~Marco O.,  Izzard R.~G.,  2017, Publications of the Astronomical Society of
+  Australia, 34
+
 \bibitem[\protect\citeauthoryear{De~Mink, Langer, Izzard, Sana  \& de
   Koter}{De~Mink et~al.}{2013}]{de2013rotation}
 De~Mink S.,  Langer N.,  Izzard R.,  Sana H.,   de Koter A.,  2013, The
   Astrophysical Journal, 764, 166
+
+\bibitem[\protect\citeauthoryear{Eggleton}{Eggleton}{1983}]{eggleton1983approximations}
+Eggleton P.~P.,  1983, The Astrophysical Journal, 268, 368
+
+\bibitem[\protect\citeauthoryear{Fowler \& Hoyle}{Fowler \&
+  Hoyle}{1964}]{fowler1964neutrino}
+Fowler W.~A.,  Hoyle F.,  1964, The Astrophysical Journal Supplement Series, 9,
+  201
+
+\bibitem[\protect\citeauthoryear{Fryer, Belczynski, Wiktorowicz, Dominik,
+  Kalogera  \& Holz}{Fryer et~al.}{2012}]{fryer2012compact}
+Fryer C.~L.,  Belczynski K.,  Wiktorowicz G.,  Dominik M.,  Kalogera V.,   Holz
+  D.~E.,  2012, The Astrophysical Journal, 749, 91
+
+\bibitem[\protect\citeauthoryear{Ge, Hjellming, Webbink, Chen  \& Han}{Ge
+  et~al.}{2010}]{ge2010adiabatic}
+Ge H.,  Hjellming M.~S.,  Webbink R.~F.,  Chen X.,   Han Z.,  2010, The
+  Astrophysical Journal, 717, 724
+
+\bibitem[\protect\citeauthoryear{Ge, Webbink, Chen  \& Han}{Ge
+  et~al.}{2015}]{ge2015adiabatic}
+Ge H.,  Webbink R.~F.,  Chen X.,   Han Z.,  2015, The Astrophysical Journal,
+  812, 40
+
+\bibitem[\protect\citeauthoryear{Goldberg \& Mazeh}{Goldberg \&
+  Mazeh}{1994}]{goldberg1994mass}
+Goldberg D.,  Mazeh T.,  1994, Astronomy and Astrophysics, 282, 801
+
+\bibitem[\protect\citeauthoryear{Hamann \& Koesterke}{Hamann \&
+  Koesterke}{1998}]{hamann1998spectrum}
+Hamann W.-R.,  Koesterke L.,  1998, Astronomy and Astrophysics, 335, 1003
+
+\bibitem[\protect\citeauthoryear{Hjellming \& Webbink}{Hjellming \&
+  Webbink}{1987}]{hjellming1987thresholds}
+Hjellming M.~S.,  Webbink R.~F.,  1987, The Astrophysical Journal, 318, 794
+
+\bibitem[\protect\citeauthoryear{Hobbs, Lorimer, Lyne  \& Kramer}{Hobbs
+  et~al.}{2005}]{hobbs2005statistical}
+Hobbs G.,  Lorimer D.,  Lyne A.,   Kramer M.,  2005, Monthly Notices of the
+  Royal Astronomical Society, 360, 974
+
+\bibitem[\protect\citeauthoryear{Hopkins, Kere{\v{s}}, O{\~n}orbe,
+  Faucher-Gigu{\`e}re, Quataert, Murray  \& Bullock}{Hopkins
+  et~al.}{2014}]{hopkins2014galaxies}
+Hopkins P.~F.,  Kere{\v{s}} D.,  O{\~n}orbe J.,  Faucher-Gigu{\`e}re C.-A.,
+  Quataert E.,  Murray N.,   Bullock J.~S.,  2014, Monthly Notices of the Royal
+  Astronomical Society, 445, 581
+
+\bibitem[\protect\citeauthoryear{Hulse \& Taylor}{Hulse \&
+  Taylor}{1975}]{hulse1975discovery}
+Hulse R.~A.,  Taylor J.~H.,  1975, The Astrophysical Journal, 195, L51
 
 \bibitem[\protect\citeauthoryear{Hurley, Pols  \& Tout}{Hurley
   et~al.}{2000}]{hurley2000comprehensive}
@@ -55,34 +195,140 @@ Hurley J.~R.,  Pols O.~R.,   Tout C.~A.,  2000, Monthly Notices of the Royal
 Hurley J.~R.,  Tout C.~A.,   Pols O.~R.,  2002, Monthly Notices of the Royal
   Astronomical Society, 329, 897
 
+\bibitem[\protect\citeauthoryear{Iben \& Livio}{Iben \&
+  Livio}{1993}]{iben1993common}
+Iben I.,  Livio M.,  1993, Publications of the Astronomical Society of the
+  Pacific, 105, 1373
+
+\bibitem[\protect\citeauthoryear{Ivanova et~al.,}{Ivanova
+  et~al.}{2013}]{ivanova2013common}
+Ivanova N.,  et~al., 2013, The Astronomy and Astrophysics Review, 21, 59
+
 \bibitem[\protect\citeauthoryear{Izzard, Tout, Karakas  \& Pols}{Izzard
   et~al.}{2004}]{izzard2004new}
 Izzard R.~G.,  Tout C.~A.,  Karakas A.~I.,   Pols O.~R.,  2004, Monthly Notices
   of the Royal Astronomical Society, 350, 407
+
+\bibitem[\protect\citeauthoryear{Izzard, Dray, Karakas, Lugaro  \& Tout}{Izzard
+  et~al.}{2006}]{izzard2006population}
+Izzard R.,  Dray L.,  Karakas A.,  Lugaro M.,   Tout C.~A.,  2006, Astronomy \&
+  Astrophysics, 460, 565
 
 \bibitem[\protect\citeauthoryear{Izzard, Glebbeek, Stancliffe  \& Pols}{Izzard
   et~al.}{2009}]{izzard2009population}
 Izzard R.~G.,  Glebbeek E.,  Stancliffe R.~J.,   Pols O.,  2009, Astronomy \&
   Astrophysics, 508, 1359
 
+\bibitem[\protect\citeauthoryear{Janka}{Janka}{2012}]{janka2012explosion}
+Janka H.-T.,  2012, Annual Review of Nuclear and Particle Science, 62, 407
+
+\bibitem[\protect\citeauthoryear{Janka \& M{\"u}ller}{Janka \&
+  M{\"u}ller}{1994}]{janka1994neutron}
+Janka H.-T.,  M{\"u}ller E.,  1994, Astronomy and Astrophysics, 290, 496
+
+\bibitem[\protect\citeauthoryear{Kalogera}{Kalogera}{1996}]{kalogera1996orbital}
+Kalogera V.,  1996, The Astrophysical Journal, 471, 352
+
+\bibitem[\protect\citeauthoryear{Kalogera}{Kalogera}{2000}]{kalogera2000spin}
+Kalogera V.,  2000, The Astrophysical Journal, 541, 319
+
+\bibitem[\protect\citeauthoryear{Kalogera \& Webbink}{Kalogera \&
+  Webbink}{1998}]{kalogera1998formation}
+Kalogera V.,  Webbink R.~F.,  1998, The Astrophysical Journal, 493, 351
+
+\bibitem[\protect\citeauthoryear{Kalogera, Belczynski, Kim, O`Shaughnessy  \&
+  Willems}{Kalogera et~al.}{2007}]{kalogera2007formation}
+Kalogera V.,  Belczynski K.,  Kim C.,  O`Shaughnessy R.,   Willems B.,  2007,
+  Physics Reports, 442, 75
+
+\bibitem[\protect\citeauthoryear{Katz}{Katz}{1975}]{katz1975two}
+Katz J.,  1975, Nature, 253, 698
+
+\bibitem[\protect\citeauthoryear{Kiminki \& Kobulnicky}{Kiminki \&
+  Kobulnicky}{2012}]{kiminki2012updated}
+Kiminki D.~C.,  Kobulnicky H.~A.,  2012, The Astrophysical Journal, 751, 4
+
+\bibitem[\protect\citeauthoryear{Knigge, Coe  \& Podsiadlowski}{Knigge
+  et~al.}{2011}]{knigge2011two}
+Knigge C.,  Coe M.~J.,   Podsiadlowski P.,  2011, Nature, 479, 372
+
+\bibitem[\protect\citeauthoryear{Kobulnicky \& Fryer}{Kobulnicky \&
+  Fryer}{2007}]{kobulnicky2007new}
+Kobulnicky H.~A.,  Fryer C.~L.,  2007, The Astrophysical Journal, 670, 747
+
 \bibitem[\protect\citeauthoryear{Kobulnicky et~al.,}{Kobulnicky
   et~al.}{2014}]{kobulnicky2014toward}
 Kobulnicky H.~A.,  et~al., 2014, The Astrophysical Journal Supplement Series,
   213, 34
 
+\bibitem[\protect\citeauthoryear{Kolb}{Kolb}{1993}]{kolb1993model}
+Kolb U.,  1993, Astronomy and Astrophysics, 271, 149
+
+\bibitem[\protect\citeauthoryear{Kovetz, Cholis, Breysse  \&
+  Kamionkowski}{Kovetz et~al.}{2017}]{kovetz2017black}
+Kovetz E.~D.,  Cholis I.,  Breysse P.~C.,   Kamionkowski M.,  2017, Physical
+  Review D, 95, 103010
+
 \bibitem[\protect\citeauthoryear{Kroupa}{Kroupa}{2001}]{kroupa2001variation}
 Kroupa P.,  2001, Monthly Notices of the Royal Astronomical Society, 322, 231
 
-\bibitem[\protect\citeauthoryear{Stevenson, Vigna-G{\'o}mez, Mandel, Barrett,
-  Neijssel, Perkins  \& de Mink}{Kru}{}]{Kruckow:2018slo}
+\bibitem[\protect\citeauthoryear{Kruckow, Tauris, Langer, Kramer  \&
+  Izzard}{Kruckow et~al.}{2018}]{kruckow2018progenitors}
+Kruckow M.~U.,  Tauris T.~M.,  Langer N.,  Kramer M.,   Izzard R.~G.,  2018,
+  arXiv preprint arXiv:1801.05433
 
+\bibitem[\protect\citeauthoryear{MacLeod, Antoni, Murguia-Berthier, Macias  \&
+  Ramirez-Ruiz}{MacLeod et~al.}{2017}]{macleod2017common}
+MacLeod M.,  Antoni A.,  Murguia-Berthier A.,  Macias P.,   Ramirez-Ruiz E.,
+  2017, The Astrophysical Journal, 838, 56
+
+\bibitem[\protect\citeauthoryear{Mason, Hartkopf, Gies, Henry  \& Helsel}{Mason
+  et~al.}{2009}]{mason2009high}
+Mason B.~D.,  Hartkopf W.~I.,  Gies D.~R.,  Henry T.~J.,   Helsel J.~W.,  2009,
+  The Astronomical Journal, 137, 3358
+
+\bibitem[\protect\citeauthoryear{Mazeh, Goldberg, Duquennoy  \& Mayor}{Mazeh
+  et~al.}{1992}]{mazeh1992mass}
+Mazeh T.,  Goldberg D.,  Duquennoy A.,   Mayor M.,  1992, The Astrophysical
+  Journal, 401, 265
 
 \bibitem[\protect\citeauthoryear{Moe \& Di~Stefano}{Moe \&
   Di~Stefano}{2015}]{moe2015early}
 Moe M.,  Di~Stefano R.,  2015, The Astrophysical Journal, 810, 61
 
+\bibitem[\protect\citeauthoryear{Moe \& Di~Stefano}{Moe \&
+  Di~Stefano}{2017}]{moe2017mind}
+Moe M.,  Di~Stefano R.,  2017, The Astrophysical Journal Supplement Series,
+  230, 15
+
+\bibitem[\protect\citeauthoryear{Murguia-Berthier, MacLeod, Ramirez-Ruiz,
+  Antoni  \& Macias}{Murguia-Berthier et~al.}{2017}]{murguia2017accretion}
+Murguia-Berthier A.,  MacLeod M.,  Ramirez-Ruiz E.,  Antoni A.,   Macias P.,
+  2017, The Astrophysical Journal, 845, 173
+
+\bibitem[\protect\citeauthoryear{Nelemans, Yungelson, Zwart  \&
+  Verbunt}{Nelemans et~al.}{2001}]{nelemans2001population}
+Nelemans G.,  Yungelson L.~R.,  Zwart S.~P.,   Verbunt F.,  2001, Astronomy \&
+  Astrophysics, 365, 491
+
 \bibitem[\protect\citeauthoryear{{\"O}pik}{{\"O}pik}{1924}]{opik1924statistical}
 {\"O}pik E.,  1924, Publications of the Tartu Astrofizica Observatory, 25
+
+\bibitem[\protect\citeauthoryear{Paczynski}{Paczynski}{1976}]{paczynski1976common}
+Paczynski B.,  1976, in Symposium-International Astronomical Union. pp 75--80
+
+\bibitem[\protect\citeauthoryear{Pfahl, Rappaport  \& Podsiadlowski}{Pfahl
+  et~al.}{2002}]{pfahl2002population}
+Pfahl E.,  Rappaport S.,   Podsiadlowski P.,  2002, The Astrophysical Journal
+  Letters, 571, L37
+
+\bibitem[\protect\citeauthoryear{Podsiadlowski, Langer, Poelarends, Rappaport,
+  Heger  \& Pfahl}{Podsiadlowski et~al.}{2004}]{podsiadlowski2004effects}
+Podsiadlowski P.,  Langer N.,  Poelarends A.,  Rappaport S.,  Heger A.,   Pfahl
+  E.,  2004, The Astrophysical Journal, 612, 1044
+
+\bibitem[\protect\citeauthoryear{Politano}{Politano}{1996}]{politano1996theoretical}
+Politano M.,  1996, The Astrophysical Journal, 465, 338
 
 \bibitem[\protect\citeauthoryear{Pols, Hurley, Tout, Eggleton  et~al.}{Pols
   et~al.}{1998}]{pols1998stellar}
@@ -93,10 +339,56 @@ Pols O.~R.,  Hurley J.~R.,  Tout C.~A.,  Eggleton P.~P.,   et~al., 1998,
   Verbunt}{1996}]{portegies1996population}
 Portegies~Zwart S.,  Verbunt F.,  1996, Astronomy and Astrophysics, 309, 179
 
+\bibitem[\protect\citeauthoryear{Portegies~Zwart \& Yungelson}{Portegies~Zwart
+  \& Yungelson}{1998}]{portegies1998formation}
+Portegies~Zwart S.~F.,  Yungelson L.~R.,  1998, Astronomy and Astrophysics,
+  332, 173
+
+\bibitem[\protect\citeauthoryear{Postnov \& Yungelson}{Postnov \&
+  Yungelson}{2014}]{postnov2014evolution}
+Postnov K.~A.,  Yungelson L.~R.,  2014, Living Reviews in Relativity, 17, 3
+
+\bibitem[\protect\citeauthoryear{Rakavy, Shaviv  \& Zinamon}{Rakavy
+  et~al.}{1967}]{rakavy1967carbon}
+Rakavy G.,  Shaviv G.,   Zinamon Z.,  1967, The Astrophysical Journal, 150, 131
+
+\bibitem[\protect\citeauthoryear{Renzo, Ott, Shore  \& de Mink}{Renzo
+  et~al.}{2017}]{renzo2017systematic}
+Renzo M.,  Ott C.~D.,  Shore S.~N.,   de Mink S.~E.,  2017, Astronomy \&
+  Astrophysics, 603, A118
+
+\bibitem[\protect\citeauthoryear{Renzo et~al.,}{Renzo
+  et~al.}{2018}]{renzo2018massive}
+Renzo M.,  et~al., 2018, arXiv preprint arXiv:1804.09164
+
+\bibitem[\protect\citeauthoryear{Sana et~al.,}{Sana
+  et~al.}{2012}]{sana2012binary}
+Sana H.,  et~al., 2012, Science, 337, 444
+
 \bibitem[\protect\citeauthoryear{Schneider, Langer, de Koter, Brott, Izzard  \&
   Lau}{Schneider et~al.}{2014}]{schneider2014bonnsai}
 Schneider F.,  Langer N.,  de Koter A.,  Brott I.,  Izzard R.~G.,   Lau H.~H.,
   2014, Astronomy \& Astrophysics, 570, A66
+
+\bibitem[\protect\citeauthoryear{Schneider, Izzard, Langer  \& de
+  Mink}{Schneider et~al.}{2015}]{schneider2015evolution}
+Schneider F.,  Izzard R.,  Langer N.,   de Mink S.,  2015, The Astrophysical
+  Journal, 805, 20
+
+\bibitem[\protect\citeauthoryear{Schwab, Podsiadlowski  \& Rappaport}{Schwab
+  et~al.}{2010}]{schwab2010further}
+Schwab J.,  Podsiadlowski P.,   Rappaport S.,  2010, The Astrophysical Journal,
+  719, 722
+
+\bibitem[\protect\citeauthoryear{Soberman, Phinney  \& Van Den~Heuvel}{Soberman
+  et~al.}{1997}]{soberman1997stability}
+Soberman G.,  Phinney E.,   Van Den~Heuvel E.,  1997, arXiv preprint
+  astro-ph/9703016
+
+\bibitem[\protect\citeauthoryear{Socrates, Blaes, Hungerford  \&
+  Fryer}{Socrates et~al.}{2005}]{socrates2005neutrino}
+Socrates A.,  Blaes O.,  Hungerford A.,   Fryer C.~L.,  2005, The Astrophysical
+  Journal, 632, 531
 
 \bibitem[\protect\citeauthoryear{Stevenson, Vigna-G{\'o}mez, Mandel, Barrett,
   Neijssel, Perkins  \& de Mink}{Stevenson
@@ -104,19 +396,88 @@ Schneider F.,  Langer N.,  de Koter A.,  Brott I.,  Izzard R.~G.,   Lau H.~H.,
 Stevenson S.,  Vigna-G{\'o}mez A.,  Mandel I.,  Barrett J.~W.,  Neijssel C.~J.,
    Perkins D.,   de Mink S.~E.,  2017, Nature Communications, 8
 
+\bibitem[\protect\citeauthoryear{Taam \& Ricker}{Taam \&
+  Ricker}{2010}]{taam2010common}
+Taam R.~E.,  Ricker P.~M.,  2010, New Astronomy Reviews, 54, 65
+
+\bibitem[\protect\citeauthoryear{Taam \& Sandquist}{Taam \&
+  Sandquist}{2000}]{taam2000common}
+Taam R.~E.,  Sandquist E.~L.,  2000, Annual Review of Astronomy and
+  Astrophysics, 38, 113
+
+\bibitem[\protect\citeauthoryear{Talbot \& Thrane}{Talbot \&
+  Thrane}{2018}]{talbot2018measuring}
+Talbot C.,  Thrane E.,  2018, arXiv preprint arXiv:1801.02699
+
+\bibitem[\protect\citeauthoryear{Tauris et~al.,}{Tauris
+  et~al.}{2017}]{tauris2017formation}
+Tauris T.,  et~al., 2017, The Astrophysical Journal, 846, 170
+
+\bibitem[\protect\citeauthoryear{Toonen \& Nelemans}{Toonen \&
+  Nelemans}{2013}]{toonen2013effect}
+Toonen S.,  Nelemans G.,  2013, Astronomy \& Astrophysics, 557, A87
+
 \bibitem[\protect\citeauthoryear{Toonen, Nelemans  \& Zwart}{Toonen
   et~al.}{2012}]{toonen2012supernova}
 Toonen S.,  Nelemans G.,   Zwart S.~P.,  2012, Astronomy \& Astrophysics, 546,
   A70
 
-\bibitem[\protect\citeauthoryear{Verbunt, Kuiper, Belloni, Johnston, De~Bruyn,
-  Hermsen  \& van~der Klis}{Verbunt et~al.}{1996}]{verbunt1996high}
-Verbunt F.,  Kuiper L.,  Belloni T.,  Johnston H.~M.,  De~Bruyn A.,  Hermsen
-  W.,   van~der Klis M.,  1996, Astronomy and Astrophysics, 311, L9
+\bibitem[\protect\citeauthoryear{Toonen, Claeys, Mennekens  \& Ruiter}{Toonen
+  et~al.}{2014}]{toonen2014popcorn}
+Toonen S.,  Claeys J.,  Mennekens N.,   Ruiter A.,  2014, Astronomy \&
+  Astrophysics, 562, A14
+
+\bibitem[\protect\citeauthoryear{Tout}{Tout}{1991}]{tout1991relation}
+Tout C.~A.,  1991, Monthly Notices of the Royal Astronomical Society, 250, 701
+
+\bibitem[\protect\citeauthoryear{Verbunt \& Cator}{Verbunt \&
+  Cator}{2017}]{verbunt2017new}
+Verbunt F.,  Cator E.,  2017, Journal of Astrophysics and Astronomy, 38, 40
+
+\bibitem[\protect\citeauthoryear{Vigna-G{\'o}mez et~al.,}{Vigna-G{\'o}mez
+  et~al.}{2018}]{vigna2018formation}
+Vigna-G{\'o}mez A.,  et~al., 2018, arXiv preprint arXiv:1805.07974
+
+\bibitem[\protect\citeauthoryear{Vink, de Koter  \& Lamers}{Vink
+  et~al.}{2000}]{vink2000new}
+Vink J.~S.,  de Koter A.,   Lamers H.~J.,  2000, arXiv preprint
+  astro-ph/0008183
+
+\bibitem[\protect\citeauthoryear{Vink, de Koter  \& Lamers}{Vink
+  et~al.}{2001}]{vink2001mass}
+Vink J.~S.,  de Koter A.,   Lamers H.,  2001, Astronomy \& Astrophysics, 369,
+  574
+
+\bibitem[\protect\citeauthoryear{Vitale, Lynch, Sturani  \& Graff}{Vitale
+  et~al.}{2017}]{vitale2017use}
+Vitale S.,  Lynch R.,  Sturani R.,   Graff P.,  2017, Classical and Quantum
+  Gravity, 34, 03LT01
+
+\bibitem[\protect\citeauthoryear{Webbink}{Webbink}{1984}]{webbink1984double}
+Webbink R.,  1984, The Astrophysical Journal, 277, 355
+
+\bibitem[\protect\citeauthoryear{Wongwathanarat, Janka  \&
+  M{\"u}ller}{Wongwathanarat et~al.}{2013}]{wongwathanarat2013three}
+Wongwathanarat A.,  Janka H.-T.,   M{\"u}ller E.,  2013, Astronomy \&
+  Astrophysics, 552, A126
+
+\bibitem[\protect\citeauthoryear{Woosley}{Woosley}{2017}]{woosley2017pulsational}
+Woosley S.,  2017, The Astrophysical Journal, 836, 244
+
+\bibitem[\protect\citeauthoryear{Woosley \& Heger}{Woosley \&
+  Heger}{2007}]{woosley2007nucleosynthesis}
+Woosley S.,  Heger A.,  2007, Physics Reports, 442, 269
+
+\bibitem[\protect\citeauthoryear{Xu \& Li}{Xu \& Li}{2010}]{xu2010binding}
+Xu X.-J.,  Li X.-D.,  2010, The Astrophysical Journal, 716, 114
 
 \bibitem[\protect\citeauthoryear{Zapartas et~al.,}{Zapartas
   et~al.}{2017}]{zapartas2017delay}
 Zapartas E.,  et~al., 2017, Astronomy \& Astrophysics, 601, A29
+
+\bibitem[\protect\citeauthoryear{de Mink \& Belczynski}{de~Mink \&
+  Belczynski}{2015}]{de2015merger}
+de Mink S.,  Belczynski K.,  2015, The Astrophysical Journal, 814, 58
 
 \makeatother
 \end{thebibliography}

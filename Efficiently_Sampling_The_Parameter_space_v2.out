@@ -1,14 +1,28 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Binary population synthesis}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Physics in COMPAS}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Initial parameter priors}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.1}{ COMPAS}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Fiducial model or `physical assumptions`}{section.2}% 4
 \BOOKMARK [1][-]{section.3}{Sampling methods}{}% 5
-\BOOKMARK [2][-]{subsection.3.1}{Adaptive importance sampling}{section.3}% 6
-\BOOKMARK [1][-]{section.4}{Application I}{}% 7
-\BOOKMARK [2][-]{subsection.4.1}{More BBHs in simulation}{section.4}% 8
-\BOOKMARK [2][-]{subsection.4.2}{Rate estimator}{section.4}% 9
-\BOOKMARK [2][-]{subsection.4.3}{Chirp mass distribution}{section.4}% 10
-\BOOKMARK [1][-]{section.5}{Application II}{}% 11
-\BOOKMARK [1][-]{section.6}{\(...\)}{}% 12
-\BOOKMARK [1][-]{section.7}{Discussion}{}% 13
-\BOOKMARK [1][-]{section.8}{Summary }{}% 14
+\BOOKMARK [2][-]{subsection.3.1}{general concept sampling}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{IIIa : general concept AIS}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{IIIb: Adaptive importance sampling Algorithm}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{IIIc: Uncertainty estimates}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{IIId: Toy Model results}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{4: Result I: Verification of method}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{More mergers in simulation}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{ Rate estimator / speed ups}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Black Hole - Neutron Star simulations}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Better \(Chirp mass\) distribution}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{better subchannels}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.3}{Covering more rare events}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.4}{smaller uncertainties on rates}{section.5}% 18
+\BOOKMARK [1][-]{section.6}{Astrophysics BH-NSs and variations}{}% 19
+\BOOKMARK [2][-]{subsection.6.1}{explain subchannels}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.2}{Rates?}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.3}{Variations}{section.6}% 22
+\BOOKMARK [1][-]{section.7}{Discussion}{}% 23
+\BOOKMARK [1][-]{section.8}{Summary }{}% 24
+\BOOKMARK [1][-]{section.A1}{ToyModel}{}% 25
+\BOOKMARK [2][-]{subsection.A1.1}{Distribution functions}{section.A1}% 26
+\BOOKMARK [2][-]{subsection.A1.2}{Rates}{section.A1}% 27
+\BOOKMARK [1][-]{section.A2}{Distributions}{}% 28
